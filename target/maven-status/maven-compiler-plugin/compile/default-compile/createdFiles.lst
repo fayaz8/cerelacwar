@@ -1,0 +1,5 @@
+nestle\CamundaBpmProcessApplication.class
+nestle\camel\InvoiceMailProcessor.class
+nestle\LoggerDelegate.class
+nestle\camel\CamelRouteBuilder.class
+nestle\camel\FirstMapValueToStringProcessor.class
